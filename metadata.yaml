@@ -1,0 +1,33 @@
+_repo: The-Repair-Of-Casa-Grande-Ruin-Arizona-in-1891Government-Printing-Office-Washington-1897-page__17488
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mindeleff, Cosmos
+    birthdate: 1863
+    gutenberg_agent_id: '7423'
+    url: http://www.gutenberg.org/2009/agents/7423
+description: ''
+gutenberg_bookshelf:
+- Anthropology
+- Native America
+gutenberg_issued: '2006-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Arizona'
+- !lcsh 'Arizona -- Antiquities'
+- !lcsh 'Hohokam architecture -- Conservation and restoration'
+- !lcsh 'Casa Grande National Monument (Ariz.)'
+title: "The Repair Of Casa Grande Ruin, Arizona, in 1891\r\nFifteenth Annual Report\
+  \ of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1893-94,\
+  \ Government Printing Office, Washington, 1897, pages 315-348"
+url: http://www.gutenberg.org/ebooks/17488
